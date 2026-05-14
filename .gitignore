@@ -1,0 +1,13 @@
+# Environments
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Database
+db.sqlite3
+
+# Future proofing for Phase 7
+.env
